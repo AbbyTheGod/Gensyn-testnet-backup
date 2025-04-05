@@ -18,7 +18,10 @@ The `swarm.pem` file is critical as it contains your Gensyn node's identity. Fol
 
 
 
-Uploading bandicam 2025-04-05 15-00-48-355.mp4…
+https://github.com/user-attachments/assets/85b064b5-64ac-435f-88c2-f1d65e19cbd1
+
+
+
 
 
 
@@ -54,10 +57,9 @@ Reinstalling ensures a clean setup of your Gensyn Testnet node.
 Run the following commands to install all necessary dependencies:
 
 ```bash
-sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl screen git yarn
-curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
-echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
-sudo apt update && sudo apt install -y yarn
+apt update && apt install -y sudo
+sudo apt update && sudo apt install -y python3 python3-venv python3-pip curl wget screen git lsof && curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add - && echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list && sudo apt update && sudo apt install -y yarn
+curl -sSL https://raw.githubusercontent.com/zunxbt/installation/main/node.sh | bash
 ```
 
 #### **2. Clone the Repository**
