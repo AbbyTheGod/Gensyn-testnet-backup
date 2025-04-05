@@ -13,6 +13,12 @@ The `swarm.pem` file is critical as it contains your Gensyn node's identity. Fol
    - Open Termius and connect to your VPS.
    - Navigate to the RL-Swarm folder (`/root/rl-swarm/` or `$HOME/rl-swarm/`) using the Termius SFTP interface.
    - Drag and drop the `swarm.pem` file from the VPS to a secure backup location on your local machine.
+  
+     
+
+https://github.com/user-attachments/assets/3a8b01b1-f6b2-473a-90f6-e420da6e228e
+
+
 
 3. **Verify Backup**:
    - Ensure that the file has been successfully copied and is accessible in its new location.
