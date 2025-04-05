@@ -16,7 +16,10 @@ The `swarm.pem` file is critical as it contains your Gensyn node's identity. Fol
   
      
 
-https://github.com/user-attachments/assets/3a8b01b1-f6b2-473a-90f6-e420da6e228e
+
+
+Uploading bandicam 2025-04-05 15-00-48-355.mp4…
+
 
 
 
