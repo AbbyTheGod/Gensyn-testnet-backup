@@ -18,7 +18,6 @@ The `swarm.pem` file is critical as it contains your Gensyn node's identity. Fol
 
 
 
-https://github.com/user-attachments/assets/85b064b5-64ac-435f-88c2-f1d65e19cbd1
 
 
 
